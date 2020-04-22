@@ -1,0 +1,17 @@
+<style>
+section { min-height:100vh; }
+
+h1 { background-color:#aebdea ; width : 350px; margin : auto; margin-top : 60px; color : azure; text-align: center; font-size: 35px; padding-bottom: 10px; }
+
+table { background-color: #e5e5ff; margin : auto; margin-top : 40px; color : #292b2c; text-align: center; 
+	border: 1px solid #e5e5ff; padding : 10px; padding-left: 30px; padding-right: 30px; }
+	
+tr { line-height: 230%; }
+	
+button { background-color: azure; margin-top : 30px; border : 1px solid azure; border-radius: 3px;
+		padding : 3px; padding-left : 5px; padding-right : 5px; font-size : 15px; color: #77878F; FONT-FAMILY: 맑은 고딕,verdana; }
+	
+input { background-color: azure; margin-top : px; border : 1px solid azure; border-radius: 3px; padding : 2px;
+		padding-left : 5px; padding-right : 5px; font-size : 15px;  color: #77878F; FONT-FAMILY: 맑은 고딕,verdana; }
+
+</style>

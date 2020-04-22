@@ -1,0 +1,96 @@
+section { min-height:100vh; }
+ 
+#mypet { margin: 0 auto; width:600px; height:auto; background-color: #f5f0f1;
+	text-align: center; border: 2px solid #deced1; border-radius: 5px; }
+
+.petImg { border-radius: 70px; }
+
+.pets { margin: 0 auto; width:180px; display: inline-block;}
+
+
+
+	
+#mypage { margin: 0 auto; margin-top: 60px; width: 430px; background-color: #f5f0f1;
+		text-align: center; border: 2px solid #deced1; border-radius: 30px; }
+.box { margin: 18px; border: 1px solid azure; text-align: center;
+		 display: inline-block; width:100px; height:40px; border-radius: 5px;
+		font-size: 20px; font-weight:bolder; color: #655f86; }
+		
+		
+	
+#infoForm { margin:0 auto; text-align:center; width:350px; height:280px; color:	#3e3e3e; 
+	border: 2px solid #deced1; border-radius: 5px; background-color: #f5f0f1; border-collapse: collapse; }	
+
+
+
+
+
+
+#mysitter { margin: 0 auto; width:600px; height:auto; background-color: #e9eaf8;
+	text-align: center; border: 2px solid #b8bce9; border-radius: 5px; } 	
+
+.sitterPoint { margin: 13px; width:130px; height: 150px; display: inline-block;
+		border: 5px solid #ef7184; border-radius: 70px;  background-color: #ef7184; color:#194343;}
+.point { font-size: 34px; margin:15px; }
+
+
+	
+#sitterpage { margin: 0 auto; margin-top: 60px; width: 430px; background-color: #e9eaf8;
+		text-align: center; border: 2px solid #b8bce9; border-radius: 45px; }	
+.box_p { margin: 18px; border: 1px solid #e9eaf8; text-align: center;
+		 display: inline-block; width:100px; height:60px; border-radius: 5px;
+		font-size: 20px; font-weight:bolder; color: #655f86; background-color: #e9eaf8; }	
+	
+	
+#si_infoForm { margin:0 auto; text-align:center; width:350px; height:280px; color:#3e3e3e; 
+	border: 2px solid #b8bce9; border-radius: 5px; background-color: #e9eaf8; border-collapse: collapse; }	
+	
+	
+	
+.mepetButt { background-color: azure; border : 1px solid #deced1; border-radius: 3px;
+	color: #22252e; FONT-FAMILY: 맑은 고딕,verdana; font-size : 15px; height:28px;}
+
+
+
+
+	
+
+
+.table { border: 2px solid 	#97a7b7; margin:0 auto; text-align: center; width : 720px; 
+		border-radius: 5px; background-color: #eff1f4;
+ }
+ 
+.sitterTable { border: 2px solid #97a7b7; margin:0 auto; text-align: center; width : 639px; 
+		border-radius: 5px; background-color: #eff1f4; }
+		
+#list {
+	width: 500; margin:0 auto; text-align: center; border-collapse: collapse; border: 2px solid #eff1f4;
+	FONT-SIZE: 11pt; COLOR: #22252e; FONT-FAMILY: 맑은 고딕,verdana,tahoma; 
+}
+TD {
+	border: 1px solid #97a7b7; padding: 7px;
+}
+
+#sel {
+	FONT-SIZE: 11pt; COLOR: #272727; FONT-FAMILY: 맑은 고딕,verdana,tahoma; HEIGHT: 28px;
+}
+
+.text {
+	BORDER : 1px solid #a49da5; border-radius: 2px;
+	FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 24px; BACKGROUND-COLOR: #eff1f4;
+}
+
+.button {
+	FONT-SIZE: 18px; COLOR: azure; BORDER : 2px solid #b5bce7; border-radius: 2px;
+	FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 30px; BACKGROUND-COLOR: #b5bce7; padding-top:0
+}
+
+.view { FONT-FAMILY: 맑은 고딕,verdana; FONT-SIZE: 15px; COLOR: #22252e; }
+
+a:link { text-decoration:none; color:#22252e; }
+a:visited { text-decoration:none; color:#68718c;}
+
+
+
+
+		

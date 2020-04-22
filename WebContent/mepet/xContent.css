@@ -1,0 +1,6 @@
+	#section { margin: 0 auto; width:500px; height:140%; padding-top: 30px;
+	text-align: center; border: 2px solid #77878F; border-radius: 5px;} 
+	#writeForm { margin: auto; text-align: center;  } 
+	td {padding-bottom: 4px; }
+	#h1sub { color: #3e6383; text-align: center; }
+	section { min-height:100vh; }

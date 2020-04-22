@@ -1,0 +1,46 @@
+section { min-height:100vh; }
+
+
+.table { border: 2px solid 	#97a7b7; margin:0 auto; text-align: center; width : 720px; 
+		border-radius: 5px; background-color: #eff1f4;
+ }
+ 
+.sitterTable { border: 2px solid #97a7b7; margin:0 auto; text-align: center; width : 639px; 
+		border-radius: 5px; background-color: #eff1f4; }
+		
+#list {
+	width: 500; margin: auto; text-align: center; border-collapse: collapse; border: 2px solid #eff1f4;
+	FONT-SIZE: 11pt; COLOR: #22252e; FONT-FAMILY: 맑은 고딕,verdana,tahoma; 
+}
+.list {
+	width: 500; margin: auto; text-align: center; border-collapse: collapse; border: 2px solid #eff1f4;
+	FONT-SIZE: 11pt; COLOR: #22252e; FONT-FAMILY: 맑은 고딕,verdana,tahoma; 
+}
+TD {
+	border: 1px solid #97a7b7; padding: 7px;
+}
+
+#sel {
+	FONT-SIZE: 11pt; COLOR: #272727; FONT-FAMILY: 맑은 고딕,verdana,tahoma; HEIGHT: 28px;
+}
+
+.text {
+	BORDER : 1px solid #a49da5; border-radius: 2px;
+	FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 24px; BACKGROUND-COLOR: #eff1f4;
+}
+
+.button {
+	FONT-SIZE: 18px; COLOR: azure; BORDER : 2px solid #b5bce7; border-radius: 2px;
+	FONT-FAMILY: 맑은 고딕,verdana; HEIGHT: 30px; BACKGROUND-COLOR: #b5bce7; padding-top:0
+}
+
+.listButt { background-color: azure; border : 1px solid #deced1; border-radius: 3px;
+	color: #22252e; FONT-FAMILY: 맑은 고딕,verdana; font-size : 15px; height:28px;}
+
+
+#view { FONT-FAMILY: 맑은 고딕,verdana; FONT-SIZE: 15px; }
+
+a:link { text-decoration:none; color:#22252e; }
+a:visited { text-decoration:none; color:#68718c;}
+
+
