@@ -24,5 +24,3 @@
 - 관리자 페이지 생성. 관리자 기능 부여 (사이트 회원, 글 관리)
 - 세션쿠키 검사로 올바르지 않은 경로로의 접근 차단
 - JavaScript, CSS, HTML 를 이용한 ui/ux 기반 화면 구현
-
-### Clone -> 개발 툴에서 Import -> Oracle DB ID/PW 변경 후 localhost:8080/web/mepet/mepetMain.jsp 접속 가능합니다.
